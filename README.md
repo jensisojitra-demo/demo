@@ -20,6 +20,5 @@ class CircumOfCircle {
         CircumOfCircle obj = new CircumOfCircle();
         obj.cof(r);  // Print the circumference
 
-        s.close();  // Close the scanner
     }
 }
